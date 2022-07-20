@@ -1,0 +1,187 @@
+body{
+    margin: 0%;
+}
+.container1{
+    width: 100%;
+    height: 70vh;
+}
+.header{
+    width: 100%;
+    height: 13vh;
+    background: black;
+
+}
+.pic1{
+    width: 100%;
+    height: 500px;
+    background-image: url(kopiko/home.jpg);
+    width: 100%;
+    height: 75vh;
+    background-position: center;
+
+}
+.logo-header{
+    width: 182px;
+    margin-left: 100px;
+    margin-top: 7px;
+    float:left;
+}
+.category{
+    width: 55%;
+    height: 13vh;
+    padding-left: 185px;
+    margin-left: 136px;
+    float: left;
+}
+
+ .contents {
+    display: inline;
+   
+    margin-left: 22px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+ 
+ .contents a{
+    color: white;
+    text-decoration: none;
+    font-family: 'Asap', sans-serif;
+   
+ }
+ .categories :hover{
+    color: red;
+ }
+ .categories{
+    margin-top: 32px;
+    margin-left: 15px;
+    float:left;
+ }
+ .container2{
+    width: 100%;
+    height: 65vh;
+    margin-top: 118px;
+    background-color: black;
+ }
+ .logo-container2{
+    width: 45%;
+    height: 65vh;
+    margin-top: 0px;
+    float:left;
+ }
+ .logo2{
+    width: 400px;
+
+    margin-left: 207px;
+    margin-top: 124px;
+ }
+ .text-container2{
+    width: 45%;
+    height: 65vh;
+    margin-top: 0px;
+    margin-left: 74px;
+    float:left;
+    
+ }
+ .text{
+    color: white;
+    font-family: 'helveticaneuebold',sans-serif;
+    letter-spacing: -1.5px;
+    font-size: 45px;
+    font-weight: bold;
+    margin-left: 54px;
+}
+.para-container2{
+    color: white;
+    width: 90%;
+    font-family: 'helveticaneueregular',sans-serif;
+    letter-spacing: 0.5px;
+    font-size: 1.35em;
+}
+.container3{
+    width: 100%;
+    height: 98vh;
+    background-image: url(kopiko/Pack1Table_adjusted.jpg);
+    margin-left: 0px;
+    
+   
+}
+.blank{
+    width: 50%;
+    height: 98vh;
+    float:left;
+}
+.text-container3{
+    width: 50%;
+    height: 98vh;
+    float:left;
+    color: black;
+    margin-left: -36px;
+}
+.para-container3{
+   
+    font-family: 'helveticaneueregular',sans-serif;
+    letter-spacing: 0.5px;
+    font-size: 1.3rem;
+    color: #726c6c;
+}
+.heading-container3{
+    color: red;
+    
+    font-family: 'helveticaneuebold',sans-serif;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    font-size: 6em;
+    font-weight: bolder;
+}
+.container4{
+
+        width: 100%;
+        height: 90vh;
+        background-image: url(kopiko/coffee\ bean\ background.jpg);
+        margin-top: -44px;
+        padding-top: 113px;
+}
+.heading-container4{
+
+    font-family: 'helveticaneuebold',sans-serif;
+    letter-spacing: 0.5px;
+    font-size: 1.5em;
+    color: white;
+    margin-left: 96px;
+    text-align: center;
+}
+.para-container4{
+    font-family: 'helveticaneueregular',sans-serif;
+    letter-spacing: 0.5px;
+    font-size: 1.1em;
+    width: 733px;
+    margin-left: 245px;
+    font-weight: 500;
+    letter-spacing: -1.5px;
+}
+.copy{
+    color: white;
+    margin-left: 132px;
+    font-size: 15px;
+}
+.container5{
+    width: 100%;
+    height: 6vh;
+    background-color: black;
+    padding-top: 50px;
+    
+    margin-top: -93px;
+}
+
+
+
+
+
+
+
+ 
+
+
+    
+
